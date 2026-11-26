@@ -1,0 +1,9 @@
+# Entorno y cachés
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Archivos temporales
+~$*.docx
+archive.zip
